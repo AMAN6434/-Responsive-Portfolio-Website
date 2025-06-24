@@ -1,3 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Aman Dhiman | Portfolio Gallery</title>
+<link rel="stylesheet"
+href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css
+">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-
+awesome/6.0.0/css/all.min.css">
+<style>
+body {
+scroll-behavior: smooth;
+font-family: 'Segoe UI', sans-serif;
+background: linear-gradient(to right, #f8f9fa, #e0eafc);
+color: #333;
+}
+.navbar {
+background-color: #2c3e50;
+}
+.navbar-brand, .nav-link {
+color: white !important;
+}
+.nav-link:hover {
+color: #f39c12 !important;
+}
+section {
+padding: 80px 0;
+}
+#about {
+background-color: #ffffff;
+text-align: center;
+}
+#projects {
+background-color: #ffffff;
+}
 #contact {
 background-color: #f0f4f8;
 }
@@ -208,3 +245,6 @@ $('#contactForm')[0].reset();
 </script>
 </body>
 </html>
+OUTPUT PDF LINK
+https://1drv.ms/b/c/97f67e659aaaf5bf/EX8ezIReBR9EksrDIyXTfucBlz-
+G3pjgkwkJMA__jTOt9A?e=p9WENn
